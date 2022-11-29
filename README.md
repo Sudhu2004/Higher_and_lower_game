@@ -1,16 +1,6 @@
-### Hi there 👋
+**HIGHER AND LOWER GAME
 
-<!--
-**Sudhu2004/Sudhu2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on image proccesing with machine learning
-- 🌱 I’m currently learning tensorFlow
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with a person having experience on tensorFlow
-- 💬 Ask me about python 
-- 📫 How to reach me: sudhrshan18@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This game is like comparing two celebrities based on instagram followers .
+If you guess the celebrity with highest instagram follower you increase your score .
+The next comparing question is going to be with the correctly guessed celebrity by you and a random celebrity from the data .
+The game keeps on continuing untill you guess wrong.
